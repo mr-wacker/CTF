@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ufwb version="1.17">
+    <grammar name="New grammar" start="id:1" author="Seho Tanaka" email="setana@ttu.ee">
+        <description>Grammar for my file format</description>
+        <structure name="png2" id="1" encoding="ISO_8859-1:1987" endian="big" signed="no"/>
+        <structure name="&lt;new structure&gt;" id="3" encoding="ISO_8859-1:1987" endian="big" signed="no"/>
+    </grammar>
+</ufwb>
